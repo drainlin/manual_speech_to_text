@@ -1,6 +1,6 @@
 name: manual_speech_to_text
 description: A Flutter package that provides manual control over speech-to-text functionality, allowing continuous listening with custom start, pause, resume, and stop callbacks without automatic pauses during speech breaks.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/sagarkalel/manual_speech_to_text
 repository: https://github.com/sagarkalel/manual_speech_to_text
 issue_tracker: https://github.com/sagarkalel/manual_speech_to_text/issues

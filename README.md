@@ -8,7 +8,7 @@ A Flutter plugin that enhances the standard speech-to-text functionality by prov
 
 Sagar Kalel
 
-- ✉️ [Email](sagarkalel4141@gmail.com)
+- ✉️ sagarkalel4141@gmail.com
 - 👔 [LinkedIn](https://www.linkedin.com/in/sagar-kalel-06207a1b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 💻 [Github](https://github.com/sagarkalel)
 - 📸 [Instagram](https://www.instagram.com/kalel337/?utm_source=qr&igsh=NHpyaXZ2ZHE1dGk0)
@@ -57,7 +57,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  manual_speech_to_text: ^1.0.2
+  manual_speech_to_text: ^1.0.3
 ```
 
 ### Dependencies
