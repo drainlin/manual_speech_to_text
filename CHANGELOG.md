@@ -78,7 +78,7 @@
 - improved the function `pauseIfMuteFor`
 - other small small improvements
 
-## 1.0.2 & 1.0.3
+## 1.0.2 & 1.0.3 & 1.0.4
 
 ### Enhancement
 - improved documentation and search algorithm for pakcage.
