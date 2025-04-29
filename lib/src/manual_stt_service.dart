@@ -114,11 +114,6 @@ class _ManualSttService {
         if (result.finalResult) {
           onTextChanged('', '${result.recognizedWords} ');
         }
-
-        // Restart listening if it was interrupted
-        if (!_speechToText.isListening && result.finalResult) {
-          startRecording();
-        }
       },
       onSoundLevelChange: onSoundLevelChanged,
       localeId: localId,
